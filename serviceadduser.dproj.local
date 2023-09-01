@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/01 16:24:05.000.026,C:\Users\fox\Documents\Embarcadero\Studio\Projects\dcsync\BackgroundThreadUnit.pas=C:\Users\fox\Documents\Embarcadero\Studio\Projects\serviceadduser\BackgroundThreadUnit.pas</Transaction>
+    <Transaction>2023/09/01 16:24:33.000.787,C:\Users\fox\Documents\Embarcadero\Studio\Projects\dcsync\ServiceDemoBlogsEmbarcadero.dproj=C:\Users\fox\Documents\Embarcadero\Studio\Projects\serviceadduser\serviceadduser.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
